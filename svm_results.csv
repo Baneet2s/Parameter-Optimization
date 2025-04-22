@@ -1,0 +1,11 @@
+Sample #,Best Accuracy,Best SVM Parameters
+S1,0.9905,"Kernel: poly, C: 0.0010, gamma: 1.0000"
+S2,0.9834,"Kernel: poly, C: 0.0010, gamma: 1.0000"
+S3,0.9935,"Kernel: poly, C: 0.0010, gamma: 1.0000"
+S4,0.9905,"Kernel: poly, C: 0.0010, gamma: 1.0000"
+S5,0.9834,"Kernel: linear, C: 0.1000, gamma: N/A"
+S6,0.9881,"Kernel: poly, C: 0.0010, gamma: 1.0000"
+S7,0.9881,"Kernel: poly, C: 0.0010, gamma: 1.0000"
+S8,0.9923,"Kernel: poly, C: 0.0010, gamma: 1.0000"
+S9,0.9929,"Kernel: poly, C: 0.1000, gamma: 0.1000"
+S10,0.9846,"Kernel: poly, C: 0.0010, gamma: 1.0000"
